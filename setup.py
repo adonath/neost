@@ -28,7 +28,7 @@ if __name__ == '__main__':
         sys.argv.remove('--nocython')
         setup(
             name='NEoST',
-            version='0.10.0',
+            version='2.0.0',
             author='NEoST core team',
             author_email='A.L.Watts@uva.nl',
             url='',
